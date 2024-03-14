@@ -1,0 +1,32 @@
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\bin\Debug\net6.0\appsettings.json
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\bin\Debug\net6.0\RainFall Net API.exe
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\bin\Debug\net6.0\RainFall Net API.deps.json
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\bin\Debug\net6.0\RainFall Net API.runtimeconfig.json
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\bin\Debug\net6.0\RainFall Net API.dll
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\bin\Debug\net6.0\RainFall Net API.pdb
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\RainFall Net API.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\RainFall Net API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\RainFall Net API.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\RainFall Net API.AssemblyInfo.cs
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\RainFall Net API.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\RainFall Net API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\RainFall Net API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\staticwebassets\msbuild.RainFall Net API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\staticwebassets\msbuild.build.RainFall Net API.props
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RainFall Net API.props
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RainFall Net API.props
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\scopedcss\bundle\RainFall Net API.styles.css
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\RainFall.063910FF.Up2Date
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\RainFall Net API.dll
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\refint\RainFall Net API.dll
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\RainFall Net API.pdb
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\RainFall Net API.genruntimeconfig.cache
+C:\Users\Asus\source\repos\RainFall Net API\RainFall Net API\obj\Debug\net6.0\ref\RainFall Net API.dll

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1255A67-E896-47D5-B16E-43EE62E3192B}|RainFall Net API\\RainFall Net API.csproj|c:\\users\\asus\\source\\repos\\rainfall net api\\rainfall net api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1255A67-E896-47D5-B16E-43EE62E3192B}|RainFall Net API\\RainFall Net API.csproj|solutionrelative:rainfall net api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1255A67-E896-47D5-B16E-43EE62E3192B}|RainFall Net API\\RainFall Net API.csproj|c:\\users\\asus\\source\\repos\\rainfall net api\\rainfall net api\\responses\\rainfallreadingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1255A67-E896-47D5-B16E-43EE62E3192B}|RainFall Net API\\RainFall Net API.csproj|solutionrelative:rainfall net api\\responses\\rainfallreadingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1255A67-E896-47D5-B16E-43EE62E3192B}|RainFall Net API\\RainFall Net API.csproj|c:\\users\\asus\\source\\repos\\rainfall net api\\rainfall net api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1255A67-E896-47D5-B16E-43EE62E3192B}|RainFall Net API\\RainFall Net API.csproj|solutionrelative:rainfall net api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1255A67-E896-47D5-B16E-43EE62E3192B}|RainFall Net API\\RainFall Net API.csproj|c:\\users\\asus\\source\\repos\\rainfall net api\\rainfall net api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1255A67-E896-47D5-B16E-43EE62E3192B}|RainFall Net API\\RainFall Net API.csproj|solutionrelative:rainfall net api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1255A67-E896-47D5-B16E-43EE62E3192B}|RainFall Net API\\RainFall Net API.csproj|c:\\users\\asus\\source\\repos\\rainfall net api\\rainfall net api\\controllers\\rainfallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1255A67-E896-47D5-B16E-43EE62E3192B}|RainFall Net API\\RainFall Net API.csproj|solutionrelative:rainfall net api\\controllers\\rainfallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1255A67-E896-47D5-B16E-43EE62E3192B}|RainFall Net API\\RainFall Net API.csproj|c:\\users\\asus\\source\\repos\\rainfall net api\\rainfall net api\\responses\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1255A67-E896-47D5-B16E-43EE62E3192B}|RainFall Net API\\RainFall Net API.csproj|solutionrelative:rainfall net api\\responses\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1255A67-E896-47D5-B16E-43EE62E3192B}|RainFall Net API\\RainFall Net API.csproj|c:\\users\\asus\\source\\repos\\rainfall net api\\rainfall net api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1255A67-E896-47D5-B16E-43EE62E3192B}|RainFall Net API\\RainFall Net API.csproj|solutionrelative:rainfall net api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1255A67-E896-47D5-B16E-43EE62E3192B}|RainFall Net API\\RainFall Net API.csproj|c:\\users\\asus\\source\\repos\\rainfall net api\\rainfall net api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1255A67-E896-47D5-B16E-43EE62E3192B}|RainFall Net API\\RainFall Net API.csproj|solutionrelative:rainfall net api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1255A67-E896-47D5-B16E-43EE62E3192B}|RainFall Net API\\RainFall Net API.csproj|c:\\users\\asus\\source\\repos\\rainfall net api\\rainfall net api\\models\\rainfallreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1255A67-E896-47D5-B16E-43EE62E3192B}|RainFall Net API\\RainFall Net API.csproj|solutionrelative:rainfall net api\\models\\rainfallreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\RainFall Net API\\appsettings.json",
+              "RelativeDocumentMoniker": "RainFall Net API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\RainFall Net API\\appsettings.json",
+              "RelativeToolTip": "RainFall Net API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T13:52:58.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\RainFall Net API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RainFall Net API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\RainFall Net API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RainFall Net API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:52:49.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\RainFall Net API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "RainFall Net API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\RainFall Net API\\WeatherForecast.cs",
+              "RelativeToolTip": "RainFall Net API\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:52:39.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\RainFall Net API\\Responses\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "RainFall Net API\\Responses\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\RainFall Net API\\Responses\\ErrorResponse.cs",
+              "RelativeToolTip": "RainFall Net API\\Responses\\ErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:44:50.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\RainFall Net API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RainFall Net API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\RainFall Net API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RainFall Net API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-06T10:01:02.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\RainFall Net API\\Program.cs",
+              "RelativeDocumentMoniker": "RainFall Net API\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\RainFall Net API\\Program.cs",
+              "RelativeToolTip": "RainFall Net API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T08:52:43.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RainfallReadingResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\RainFall Net API\\Responses\\RainfallReadingResponse.cs",
+              "RelativeDocumentMoniker": "RainFall Net API\\Responses\\RainfallReadingResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\RainFall Net API\\Responses\\RainfallReadingResponse.cs",
+              "RelativeToolTip": "RainFall Net API\\Responses\\RainfallReadingResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T08:39:41.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RainfallController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\RainFall Net API\\Controllers\\RainfallController.cs",
+              "RelativeDocumentMoniker": "RainFall Net API\\Controllers\\RainfallController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\RainFall Net API\\Controllers\\RainfallController.cs",
+              "RelativeToolTip": "RainFall Net API\\Controllers\\RainfallController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T08:38:01.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RainFallReading.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\RainFall Net API\\Models\\RainFallReading.cs",
+              "RelativeDocumentMoniker": "RainFall Net API\\Models\\RainFallReading.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\RainFall Net API\\RainFall Net API\\Models\\RainFallReading.cs",
+              "RelativeToolTip": "RainFall Net API\\Models\\RainFallReading.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T08:36:55.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
